@@ -48,9 +48,3 @@ If you encounter any bugs or have suggestions for improvements, please open an i
 Acknowledgements
 
 We appreciate all contributions, big or small. Thank you for helping make this project better!
-
-### Additional Resources:
-- **Template for Issues**: Create an issue template to help users report bugs or suggest features. You can add a `.github/ISSUE_TEMPLATE/` folder in your repo.
-- **Pull Request Template**: Similarly, consider creating a pull request template to ensure contributors provide enough context for their changes.
-
-Would you like a walkthrough on setting up any specific part of your GitHub repository?
